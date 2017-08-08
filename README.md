@@ -2,7 +2,7 @@
 
 This is a soldering kit for to be distributed at the Playa Circuit Booogie Camp at Burning Man 2017. Our goal was to design a soldering kit that does something a little bit more interesting than simply blinking lights while still costing less than a few dollars each. Only one color LED is initally lit after assembling the kit, and users must find another person to "share" their color with and receive new colors in return to light up the rest of the LEDs! Each device can only receive one color from each other device, and communication happens using infrared light.
 
-![Assembled Board Front](https://raw.githubusercontent.com/gabebuckmaster/pcb_gift/master/images/front_image.jpg) ![Assembled Board Back](https://raw.githubusercontent.com/gabebuckmaster/pcb_gift/master/images/back_image.jpg)
+![Assembled Board Front](https://raw.githubusercontent.com/gabebuckmaster/pcb_gift/master/images/front_image.jpg =250x) ![Assembled Board Back](https://raw.githubusercontent.com/gabebuckmaster/pcb_gift/master/images/back_image.jpg =250x)
 
 ![Schematic](https://raw.githubusercontent.com/gabebuckmaster/pcb_gift/master/images/schematic.png)
 
