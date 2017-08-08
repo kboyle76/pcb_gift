@@ -1,0 +1,17 @@
+Reference,Quantity,Description,Manufacturer,Part Number,Cost @ qty 100,Extended cost,Notes
+U1,1,"8 bit microcontroller -12 GPIO, 14 SOIC",Microchip,ATTINY44A-SSU,0.618,61.8,Digikey
+U2,1,38 kHz IR receiver,Vishay,TSOP38338,0.6,60,Digikey
+C1,1,1uF 0805 ceramic capacitor X5R 6.3V,Generic,,0.0093,0.93,Digikey
+S1,1,Tactile pushbutton,Generic,,0.04,8,Aliexpress
+"R1, R5",2,5% 0805 Resistor 560 Ohms,Generic,,0.0067,1.34,Digikey
+R2,1,5% 0805 Resistor 820 Ohms,Generic,,0.0067,0.67,Digikey
+R3,1,5% 0805 Resistor 1.2k Ohms,Generic,,0.0067,0.67,Digikey
+R4,1,5% 0805 Resistor 680 Ohms,Generic,,0.0067,0.67,Digikey
+R6,1,5% 0805 Resistor 10k Ohms,Generic,,0.0067,0.67,Digikey
+D1,1,5mm Red Led,Generic,,0.0181,1.81,Aliexpress
+D2,1,5mm Yellow Led,Generic,,0.0181,1.81,Aliexpress
+D3,1,5mm Green Led,Generic,,0.0181,1.81,Aliexpress
+D4,1,5mm Blue Led,Generic,,0.0181,1.81,Aliexpress
+D5,1,IR LED transmitter,Generic,,0.0181,1.81,Aliexpress
+B1-3,3,Battery holder,Keystone,2996,0.20492,61.476,Digikey
+N/A,3,LR44 battery,,,0.0788,23.64,Amazon

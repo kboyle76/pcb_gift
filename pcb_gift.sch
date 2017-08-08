@@ -6980,8 +6980,8 @@ Alternate pin configuration
 <part name="C1" library="resistor" deviceset="C-EU" device="C0805" value="1uF"/>
 <part name="R1" library="resistor" deviceset="R-EU_" device="R0805" value="560"/>
 <part name="R2" library="resistor" deviceset="R-EU_" device="R0805" value="820"/>
-<part name="R3" library="resistor" deviceset="R-EU_" device="R0805" value="1.2k"/>
-<part name="R14" library="resistor" deviceset="R-EU_" device="R0805" value="680"/>
+<part name="R3" library="resistor" deviceset="R-EU_" device="R0805" value="1k"/>
+<part name="R14" library="resistor" deviceset="R-EU_" device="R0805" value="2k"/>
 <part name="D5" library="widget" deviceset="LED5MM_SIDE" device=""/>
 <part name="R5" library="resistor" deviceset="R-EU_" device="R0805" value="560"/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
